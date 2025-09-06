@@ -1,0 +1,39 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# Editors/IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Build & dist
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs & cache
+*.log
+logs/
+.pytest_cache/
+.tox/
+.coverage
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit cache (optional)
+.streamlit/
